@@ -1,0 +1,34 @@
+DE,Andy
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p139.tti
+PN,13900
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,GTurner will return in...Q+<t      
+OL,2,Q    ap|}}}|p0 "+}20 "o??( !   
+OL,3,Q$0rzw~|p "o~}0"  o?|d !  `
+OL,4,Qtxw?/#    "#d0+d!  *?40"0  
+OL,5,Q~/c6!         ",;4$  o}u   d
+OL,6,Q{?!h&             "n`  {   h%
+OL,7,Q~' h%               "t  {7(  j9
+OL,8,Q!`.1     Uh4      Qj  ~%$ `u
+OL,9,Q?!W6j!S(,,xWj{{5      Q   o=   z
+OL,10,W! ~i?  U j0o3k5      Q j jooo$" hw
+OL,11,W! x'z5  U  *y}?       Q j7 ~o&  h
+OL,12,W ao }   U j/y'      WW >Q~no'Q`x?w
+OL,13,W2z4T`ppU~5a~0TppppWza~};!Q`~?on
+OL,14,W ~5k}T,,U|?u`T,,Wxy{o%W`x]Q#o^!!\
+OL,15,W(5*ktTcU+? "/#T3W8?)!`x.e"
+OL,16,W~}(*}tT,,,,,,,,W`|/`p||?{e $
+OL,17,W (k'#+||||||~~>" 0 $
+OL,18,W "(+S||<,<<<ll|l,l,ll|ll,||||<|h
+OL,19,Wo0  $+Sj545njjjjjbnhijk&56765~5
+OL,20,W{>}   !S#########/,,.l~~~.?no==.?~5
+OL,21,Wo}   "'?|p   Sj`>kb55555557565
+OL,22,W*w|   $"oo}|pS"dpz|}-/./,/|}=!
+OL,23,W /+t   (";~~{~|tpS:99999998j  
+OL,24,     F                   Start over...  
+FL,100,100,100,100,8ff,8ff

@@ -1,0 +1,34 @@
+DE,Dan
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p129.tti
+PN,12900
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,W   C]DGlug, get me a bucket, QUICK!  \ 
+OL,2,T|tp          S+}Rht (         ( `<  0
+OL,3,T/}|p      S "eR+4Ux|}tR& `>'
+OL,4,T  "#/o|p      S! Uz?#xt#ouR8' `
+OL,5,Vp0   T #/uR (|p  U'W`~}0U+R `x/!
+OL,6,V7s}|p0 T #/V R "#/,U0WU`R,#
+OL,7,V5/5c{|p   it R`ppUkW/o?/U5R`ppp0
+OL,8,V55*mh/?|  uR## UjW5(j5$jU5R  ##
+OL,9,V}|5ojj*ue/o  j`Rp,UjW5 *% jUo5R,p0
+OL,10,V|~z*?:5  jjR  UbqQl~}<Upq0R +m4
+OL,11,V "#/o}}u  jj  Q~t+7xt
+OL,12,VQ`|tV  jbUQz}ki4
+OL,13,VQjV////% *  j* Q"#j5
+OL,14,VQ*?V{j{{  j"U`k'x;? Q"!
+OL,15,V   p~j  ?U 4a~?a2`rsp"//!
+OL,16,V|j ~?!U~wx'x?!+o?'
+OL,17,Vjo> ! Uj}gx?
+OL,18,V?7  k>*#Tx   U"o'  x~tQ"sw!
+OL,19,V?/Q~tT`x|%U   `t3//'! l}Q'U}0
+OL,20,T  pQuT/!   U zt     k!h|||||~}
+OL,21,T|Q"k4T`x4 Uh}   `~ (|||~
+OL,22,T?/#! Q/%T//#  U*////'  ./////% l||'
+OL,23,T  pG]DBut it was too late... \Q,,$$
+OL,24,ANext
+FL,130,8ff,8ff,8ff,8ff,8ff

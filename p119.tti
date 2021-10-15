@@ -1,0 +1,34 @@
+DE,Dave
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p119.tti
+PN,11900
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,W]DThis SARS outbreak is a real pain
+OL,2,W]Dbut with a well-funded NHS and advan-
+OL,3,W]Dces in modern medicine we won't ever
+OL,4,W]Dhave another outbreak like that right
+OL,5,T    x|l|$    444444W`,0        +/w
+OL,6,T   j?# l}   !55555W2,!////////-$ #ot#
+OL,7,T  h'U||||||0 T555 W `8&  "d0      #+o
+OL,8,T  j?U?/ssw0 T%!Wj7"!      "),,,,,,&
+OL,9,T `rqU"o}?//e    W.!  T$Q00  (8
+OL,10,T ~4UWx|   xwdT44Q))4 j'Wo*%
+OL,11,T UWw{5  ssscT554 Qz|~p W+(0
+OL,12,T o?U?/5 WsssbT55?Q(W{{  W  u
+OL,13,T  '##Ux7  *% WsssbT%55Qbow{    Wj
+OL,14,T hl U////o?'  W+y'T 5%Q()+//*- W`~0
+OL,15,T u~f-o3opp    (,U`|t S,0 T/////////////
+OL,16,T ?h*}tr##./{|,,,,U~}Sj0T(88888(((((((
+OL,17,T h|2+os|$ppr3ssUt3/'Sj5TbfffQ<./}|0
+OL,18,T j/}p"#/m|<g##`Ub{'#SjTjQr|}t+
+OL,19,T 4u37|||tp~4n}<   S~  Q`6H((Ius#
+OL,20,T oo5z?o4j!   S Qh7H((I8'{
+OL,21,T *?6'7}s/|rS]DThis question  \Qn}//#
+OL,22,T w)~}0t+voS]Dis making me   \T|||
+OL,23,             S]Dfeel sick...   \T
+OL,24,ANext
+FL,120,8ff,8ff,8ff,8ff,8ff

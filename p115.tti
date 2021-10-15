@@ -1,0 +1,34 @@
+DE,Andy
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p115.tti
+PN,11500
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,C]DUck! I'm having regrets about buying 
+OL,2,C]Dthis new Pumpkin Spice Latte... And
+OL,3,C]DI'm not sure I'm following all this;
+OL,4,C]DYou're saying that in the year 2020
+OL,5,C]Dteletext doesn't exist any more...
+OL,6,S"!W(,,,,,,dpppp<T4444U p0T444444$$$$$(
+OL,7,QS*0T4444444W   x~|T%55UhT%!!!!C]DYep
+OL,8,Qx4T4555%Qx|T55Ws{{1T5^WjoU5x?T` Sp>#T04
+OL,9,Qo}pT!5%Q~'#T55W,nn$T55U*w}? Tz5 445555
+OL,10,T5Qo4  `%T%%%%W+//!T%% +///(,./%$%%%%%%
+OL,11,T5Q"t z7S]Dbut Teletext Holidays DOES??
+OL,12,T55Q}S"o?T55555555%j3! 4444444
+OL,13,T%5QoW~}4S&T55555555T.'jgy||0555555
+OL,14,T0 QjWo;w%T !!!!%%%%%U|?To~%555555
+OL,15,T4Qz5Tt Sx||0T,l|pppp2#s0h$!!%%%%
+OL,16,TQ`g/gTkR;^SR_1T  ###///'Uh?!Tx|||pp
+OL,17,T%Q~v/}}~?TjR=9S%R5W/'V8^W<<p ,|ppppT###
+OL,18,Q h~4TRjf GjW  V~f^Wfffe _Qp|pW###
+OL,19,Q ~5TRj9 LjW Vjy^W99{ Q*}h0
+OL,20,Q`5TRjf UjW Vjwfn Q6hvo}k}
+OL,21,Qj5W`R90G5  V"o=1QjQ={}k
+OL,22,Qj5W~R"##!W  V-+//'|6 Q ),{u///z
+OL,23,QWz5                    Q"+///'
+OL,24,ANext
+FL,116,8ff,8ff,8ff,8ff,8ff

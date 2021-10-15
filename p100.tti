@@ -1,0 +1,65 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p100.tti
+PN,10001
+SC,0001
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,U`0`p8t||`pp0x|||tlt||4T/////
+OL,2,U j5h5j5'#~o6!{j'#!W | |Tj
+OL,3,U j5j5j5   5/#jTjW*%p`pTk
+OL,4,U j5juz5   5|~jTjW k5w}T
+OL,5,U */%"o?)/   5///'~T*W+/**%-,T
+OL,6,T||Q}   j5x|||vo}|8}0 xT/////o
+OL,7,TQp~tj5?oj7k5~h7~6}T
+OL,8,TQ5w  {j?ij5or!T
+OL,9,TQ'o5}~j7}:7o'j5|j5T
+OL,10,TW|h0|TxQ+5"o'~5j}k5 ! *}ki?T
+OL,11,TWj7oT||||||||||||||<}||||||||~
+OL,12,T||||||'#WpTo////~}{
+OL,13,Tw}#S`x>/!``0t|0Tk||ww{;//|w
+OL,14,T/w5W.#k5xhj7!"5oT}|s{/o~
+OL,15,Tw}}tpSj5o~"%T  S!T//?}w;
+OL,16,T//oW*% V`p|'! V`<0pTo?-/{w
+OL,17,T|  "ktppR~/`h4}-j%%;TjU|Tk~w
+OL,18,T'!   V! *~5/ Qp0   p Tj~
+OL,19,T}0 (}zR+ U p|?!pj6j55'Tjw
+OL,20,To}t0 #/}|tQ"!j5u*%"  /Tz/{~?~
+OL,21,Two}tp #+//}U*%"#Tp||?/s|g
+OL,22,Tv?}|ppp0 ###+///'#ss||~?g{
+OL,23,T|s}|||||~wwy
+OL,24,ANext                               C1/2
+FL,101,8ff,8ff,8ff,8ff,8ff
+PN,10002
+SC,0002
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,U`pp0              t 0   pp`p0       (z8
+OL,2,U*k7%j5}?j>}hw=j~%!}0`0j50h74}?j67}j)
+OL,3,Q j5 o>5 j5*u<j5 "!/*j>j'#o*u% j5 DS
+OL,4,T`   $`  (       U$p  WQ#               
+OL,5,T(i}tt``` W(t0D  Q%%%T          "V`x.i  
+OL,6,T~}=;&#W`p||~|0T `   (  (   "  `V)d06T(
+OL,7,T'W`x~//?/#T         (  !     Vi)0 
+OL,8,T#Wx~?'#   .#    W`0p1##+,dp0 T($  Vjp~t
+OL,9,WWz'S`||/   |x|2#T    W#-|0T($Vj?/!
+OL,10,Wz%W "#k h4j5j7 ! o |D    W"+}tT(0(` 
+OL,11,W5W   Sj ju>}"%  !T S&Rp`pD  W"otT*t"t
+OL,12,WuW   W* "/!V`|$T V|p|0k?+}D  W ouTk5"
+OL,13,WkW       Rh~o'`4h5j7#-j5 o oD Wj0Tm 
+OL,14,W"o}W        Vj j}>5j%T     V!Q`|W5T~0
+OL,15,WW"o}0G      Rj/  # !UpT   Up`0 z?W5Tu1
+OL,16,Tu W+o|p        Q`x|~/!  m?tk7`3W`Th?z
+OL,17,T|0W"/}p      U*#j ~h5j5 j%+"!W~?Tjkk
+OL,18,T~?|0W"+o|t0    Qj ~u*!T   W`~?!T>&
+OL,19,Tw<t W#/|tp U*# "!T  W`x|~/#Tx~}e
+OL,20,T}{~m|0 W#/|||pppx||~/'#T`x|/y2
+OL,21,To}{|s}o}||pW##+////'##!Tpx|/ss|!
+OL,22,T{}wwws?m??|||||||wss||~|g$
+OL,23,T]A      The Return 'O The Worm^T{\?/,  
+OL,24,ANext                               C2/2
+FL,101,8ff,8ff,8ff,8ff,8ff

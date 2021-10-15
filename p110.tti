@@ -1,0 +1,33 @@
+DE,Dave
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p110.tti
+PN,11000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,T?##Q5T?s;(,,,,,,,$ 
+OL,2,U ||Q5Tu,dbsssssss1
+OL,3,U*/QVffffffffffffffffffffffffffffffff
+OL,4,V0Q./'V##############################+
+OL,5,VU`pWh############################iV
+OL,6,VUjWjHWj55*0"`" 0"`S b $  1( `WIjV
+OL,7,VUWjHW*/%%* ( (  ( S (  ! $( (WIjV
+OL,8,VUjWj            W`&ss)p         jV
+OL,9,Upp0#+W           W8s:ord        jV
+OL,10,UwsupU`  Qh~|p|||~Wji=f9n66        jV
+OL,11,Uy||}U~ Q*//+#+,+,,Ww>,,myjp8,&#,ppzV
+OL,12,U 5U+W## w}kiw5###"w{% Uh//o||V 
+OL,13,UWt|t||VoWhssnfsyV4WwVhuWjo||<0Vo
+OL,14,UV uWVx?/WVo?Wj$n5x5;V
+OL,15,Uo5VWnV'T||pp|VkWf;gv}9V
+OL,16,Uy<l?'V2RW+'o?V+Tj5VWj~g;w5Vo
+OL,17,U}vsssV ~RxtW##RzTj5j5T~Wnow?T}~
+OL,18,U}||tV+R}|||T:/%l2n5T5`pppp z
+OL,19,U0 R{|T5a7/#p0T;%xb5x"//
+OL,20,Ug4Rj//?/o{T)////T/-,.%,,,./
+OL,21,U?b~uVV R5hVy TVyyTt To5//'Vyy
+OL,22,U5V  R5jV TVT5Vt`xt `
+OL,24,ANext
+FL,111,8ff,8ff,8ff,8ff,8ff

@@ -1,0 +1,34 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p102.tti
+PN,10200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,C]DPackage here for T. Wurm!T\U$,,,,T 00
+OL,2,T   pt|||||||8Sx'T p`t|||p pxx0U!s#Txv
+OL,3,T  ~csssssssS`>!Th?'1~~d xo
+OL,4,T00+*R|||||||||T4|}t7pk//)-+
+OL,5,Tn4jR5|4h|jT5/'########htR7sqr
+OL,6,T~*R/%/%/jj1T5`~w"Uprcss3/}tToR55/}
+OL,7,TCKNOCKR*/jT1~?Uxk}2ouToR55 "
+OL,8,ThRCKNOCKRj}T5Uh?'#qp3+'+jT(Ru3ss
+OL,9,TjR<l|,,,|~T5U" x4 r~?T"l|||l
+OL,10,TjR}>/,|,/oT5t U7 '`T %
+OL,11,T9jR55jtjT5f=!U//%////U!xT +?j
+OL,12,Tw$hRo55jjT5"'$W 55jU~?T "b "
+OL,13,T|< jRxusqrszT1   W5U?V8T    8x
+OL,14,Qppp0R#########Qppx||Vx|||||<<|'`Q||tpT#
+OL,15,Q?#/-|0  xt+o////#V=x'Q/-"#ot
+OL,16,Q||||t`||t*?ax|~'UpV*|p ' Q##o|v
+OL,17,Q55vu"x?Ux}V"/?'U~ tQk
+OL,18,W44|QhUh}|tppppp|`5Q?a
+OL,19,W=Q, o%U///Q z
+OL,20,W??wQs% to'U~kSjU?5Q
+OL,21,Q$$,,///#  */'U*////%*///SU' zQj
+OL,22,C]DLet's go and see what U \ 
+OL,23,C]Dthat's all about then.U \ 5
+OL,24,ANext
+FL,103,8ff,8ff,8ff,8ff,8ff

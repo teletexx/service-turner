@@ -1,0 +1,34 @@
+DE,Dan
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p112.tti
+PN,11200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,C]DGlug! Get me a hammer, some nails   \
+OL,2,C]Dand some boards... a cowl from      \
+OL,3,C]Dwardrobe and a crystal ball from    \
+OL,4,C]Dthe props department.               \
+OL,5,T p0    ,|t (t  ,    ,S  ~'Tx,    p||0
+OL,6,T"#+o|p   #m0"Ux.?/-tS:!T&   p|?'!
+OL,7,T    "#/|p  "Uj= "':! n4T,! p|/#
+OL,8,T|tp0   "+lpUzW~}0`~}UuTp<'#     `p||
+OL,9,T "#+//|tp0  UW  UT   px|,//###
+OL,10,Tpp       ##,UoW?//oUwT,###! Ux0T `pp
+OL,11,T||||ppUh?`||||0o4T,,,//U5T/o
+OL,12,T/#####     U~' pp +}   xtl0k5T
+OL,13,T      px|</Uk}}pppp~~5  z?5`5Tltp
+OL,14,Tpx|~/'#    Uo;}px~g?hp o 5z5}T"#/
+OL,15,T//#!   `8&Ux4 "+//'! `} x77}T0
+OL,16,T    `x~'U`~t     px5~u}7T"/|
+OL,17,T`p|/# U`+'5+}/'Tp
+OL,18,T/#    U~%bo?!*?  n0T"mt
+OL,19,T   S`6Uz' ~t  k!`x|5T  +?
+OL,20,T ,Sx?U(//! */////////-$   ./////-T-
+OL,21,C]DWe're not going off the air tonight \
+OL,22,C]Deven if they have to send in the    \
+OL,23,C]Driot squad to evict us!             \
+OL,24,ANext
+FL,113,8ff,8ff,8ff,8ff,8ff

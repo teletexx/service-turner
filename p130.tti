@@ -1,0 +1,34 @@
+DE,Dan
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p130.tti
+PN,13000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,T`|?Ux>o|0Tn}U`<otTo?Ux|0 `<ltT+|0
+OL,2,T~'U~'x4T##!U?`uTUn?!h'x|wmTk}
+OL,3,TUz7h h4`5~To}pp0U7z5T
+OL,4,TU*u"}0# zmuz}0T##Uhe!T
+OL,5,T=U+}vo|~/}||~'T~
+OL,6,T'Uxt #o{o|' Tz
+OL,7,TUjq}  ####+'###k'###'####### "T#/o
+OL,8,T}U+/! xVth4x}*toUt x|0Tk
+OL,9,T?U`x|oR5jj!kj?"5"jUwy~0
+OL,10,U `?a~R/!~ jj5 5|jU7k5
+OL,11,U ~!#R  j0zju`5#!//U/'Tx
+OL,12,U k4oSUuS/%+?!  n=U7Tx|/o
+OL,13,TuUotkpppptpppxtppppppx}pp~T~'Up
+OL,14,TtU#/~/##oop   ~5
+OL,15,T|tUkuz%T~4Uo/owo}t "#
+OL,16,T%U~i7T~Uh7z!`0+ukuT~
+OL,17,T/'U.%.////%TU/ //////$"! / /////T/
+OL,18,TC]DThe switchboard is lighting upT \
+OL,19,TC]Dagain, but I don't think it's T \
+OL,20,TC]Dgood news...T\||,,,,,S+tT,,,,,,,,
+OL,21,To||0Sx'T p Uxl|tTxC]DOoh, what'sT \
+OL,22,S,,,,,.!Tx}U+|'TC]Dthat, then?T \?
+OL,23,T"/}pppp~||||||||||||||||,!
+OL,24,ANext
+FL,131,8ff,8ff,8ff,8ff,8ff

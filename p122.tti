@@ -1,0 +1,34 @@
+DE,Andy
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p122.tti
+PN,12200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,S]DTurner, you need to leave RIGHT NOW, 
+OL,2,S]Dor we risk tearing the world apart
+OL,3,S]D U`|||0D with a...Th|tDHPARADOX!!!
+OL,4,Wx |Uw;?;T4444444444$~t Sb?'T4444444
+OL,5,W UW~5T5555555555j/~{t 44455555555
+OL,6,W +UWww5T5555555555z +o?t!5555555555
+OL,7,Wx hU//T%%555555557  ""05555555555
+OL,8,W+ (U+u ~? p0T555555h!   455555555555
+OL,9,W|$ U bo~0T!%%%%$*|4h}4%555555555
+OL,10,R  0Ux~}'n}R     T~=  !%%%%5555
+OL,11,R $ U%~e{?R$ $ !T5jR  ` ` (
+OL,12,R! $U7|&~*!R  0 (T !jR"    0 $
+OL,13,R $ Uoh7z%z5R!   0Tj j5R ! ! ` (
+OL,14,R0S0U"!(/szR "   Tj ~5R ! "  0 `
+OL,15,WS~!R"Uh~R(  " T~ ?}R (  !
+OL,16,Sz%R" U*4R  $Th? 4R`  $ "
+OL,17,S Ux|tp+uR  T`5 ~4R  `  !
+OL,18,SU~|stR!Tz! ~yR!    (
+OL,19,SU'!"+o?R T7 hw{tU p|t
+OL,20,SU%R"  U"//'#R"T"/o?/  x^]U  k]\?+?
+OL,21,S]DThis is my last episode. You can't
+OL,22,S*]Dthreaten me with the end of the
+OL,23,S *]Dworld...   I'M ALREADY LIVING IT!
+OL,24,ANext
+FL,123,8ff,8ff,8ff,8ff,8ff

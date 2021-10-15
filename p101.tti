@@ -1,0 +1,34 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p101.tti
+PN,10100
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,D]GSince the plug was pulled* on his   \
+OL,2,D]Gbroadcasting career, Turner has     \
+OL,3,D]Gsuffered a decline over the years.  \
+OL,4,T|||||4 Upp0T l|||4]F*Last episode--Ed.\
+OL,5,T?':;Ux?/o-T !;5-|||8(    ((<||||||||
+OL,6,T}0ngUhg~/mx/m0Tb%xr&Whtppp0T&'%c'%oo
+OL,7,T|0 U"n!~}}5!T `l?=)W *$   5T !"   !+
+OL,8,Tw$  U"d //'/%Qc|pT$VZ **/%TR4  WZ$,(T"
+OL,9,Q||/dV"dWw5wQ}TV `>//m0R4  SCO.O
+OL,10,Qx|?V dm||||$Qo'~5V ?*//%oR!W#dU`o0
+OL,11,Q7Ux~V+ux~'UtQjV 5HANDjR5 WjU5f
+OL,12,Q7U~}tpppxo4QV 5SANIjR  Wj(,,,$
+OL,13,QUz%{}0Q##!V 5 XL jR% WjU5f
+OL,14,Q2U'j5%W~?4V}(,,$~R0 WjU5+
+OL,15,QU}tk'xj`tW%Qd0VpxR  WjU5f
+OL,16,Q?U"ot~|2o5"o?WU,|5Q,V+R0 Wj(,,,$
+OL,17,Qx  Us*'o2}Q`|WUo?Q>iotRx}pWjUmz?
+OL,18,Q5 Uh=,.|,a|||pW+-,Qze?avoR/'!W2d<d(0
+OL,19,Q% Uwx}0`~}Ql|0j5"/~S0V,&W*p>`%
+OL,20,Qp Uoh?uQ}2*|~%S+tW
+OL,21,Q1U"o}jQ?/p"cqC]DTum-te   \
+OL,22,Q/ot U#/?'z%Ql~/!hC]Dtum...   \
+OL,23,Q/}0bp  pp0Ux?!Qpp `4j"o
+OL,24,ANext
+FL,102,8ff,8ff,8ff,8ff,8ff

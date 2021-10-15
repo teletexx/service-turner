@@ -1,0 +1,34 @@
+DE,Dave
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p104.tti
+PN,10400
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,D]Gbut before he can figure out what he\
+OL,2,D]Ghas received, the sinister gifts    \
+OL,3,D]Gdeliver their payload               \
+OL,4,R?U ~?Rx~'##########+o}U"/\
+OL,5,R?U`~?R?Up<######+}tR "+uU"\
+OL,6,RU`?R7U~!W//?/U"o}0 R"uU\
+OL,7,R5UR'UW%  5 "Uj?         \
+OL,8, U Rz7U7W *$5- U C]DAIEEEEE!
+OL,9,U jR5U5WouppuppUx}tp0S?!Rpp\
+OL,10,U ~R5U5W(rkup/!UjS(/!R\
+OL,11,U RjuU?$Wpppp~U .o}||tRk\
+OL,12,U R'U+7W`>,#c##!.wU"'#/4R\
+OL,13,U #5SWuW 0z!8////|0"ht oUj5R\
+OL,14,RuUuW'q4+%  px>/}tR`W'htsU5R\
+OL,15,RU"W7q>RxpW# xt +Rx Wti2U5R\
+OL,16,R}Uktp0Rn?W  |w# Rx7Ut  `~5R\
+OL,17,RuU+}pW  |6# R"U`~'R\
+OL,18,RuU+'W h|3!  Ux?!R\
+OL,19,R4U"W `o+! Ux7 R\
+OL,20,Rt Uo0W#  U  ##########R"######\
+OL,21,R}0U+}D]GCULTURED TACHYONS\
+OL,22,R*t0U#oT]G sending Turner  \
+OL,23,R0*}t  U#//oT]A  BACK IN TIME!  \
+OL,24,ANext
+FL,105,8ff,8ff,8ff,8ff,8ff

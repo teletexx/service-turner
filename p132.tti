@@ -1,0 +1,34 @@
+DE,Dan
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p132.tti
+PN,13200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,C]DI guess we couldn't F\\ *       H.   
+OL,2,C]Dchange fate, this   F\\   H  * I
+OL,3,C]Dwas the way things U \\x~|0F  *
+OL,4,C]Dhad to be...  ^    U \z?,ly,.o}
+OL,5,F                . S+} U 7~/-)//}kF .
+OL,6,FH*I  Up||||||t0T   S"m U ~}UFH  :
+OL,7,F    Uz4F *  S!UWo?U
+OL,8,F   Uh}F     U WzuUF H*
+OL,9,F  .Uj!ku*F    .U 7x~},tkT}0
+OL,10,F   Uj?!huF     U m3#c}>To}F.
+OL,11,F   Uj! 74FH*IT`U"/s{?!Tp1
+OL,12,FH*IUjtW||||||F T  h}t0   `|~t
+OL,13,F   UjW?o?oF T  ~o4hk4
+OL,14,F   UjW5j5jF .Th7jv4o0
+OL,15,F  *UjW}~}~F T ~% o5ju
+OL,16,F   Uj?,|0F T##/ *to?9"~
+OL,17,F   Uju7###s5S###m0T +/////!  /- +
+OL,18,F.  Ujtpx5S C]DWhat didn't kill
+OL,19,F   U*ss{!ppC]Dyou made you
+OL,20,U`|};?a~C]Dstranger!
+OL,21,Us##`x||t      `0 `0x0T
+OL,22,Uko5    `?!xg~gT
+OL,23,U7j"o4  hvy'T
+OL,24,ANext
+FL,133,8ff,8ff,8ff,8ff,8ff

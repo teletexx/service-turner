@@ -1,0 +1,34 @@
+DE,Dan Farrimond
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p103.tti
+PN,10300
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,C]DWHAT!? A broken clock with wiresT \  
+OL,2,C]Dand some glowing rubbish?       T \$
+OL,3,T  08|,,,,,,,,,,,,,,,,,,S"m0T,,,,,,$$$9!
+OL,4,T"fn~C]DHuh, seems this package hasT\f$
+OL,5,ThyC]Dbeen messed up in transit. T\5
+OL,6,T//,,|||tHRxtTIx||||,,,,Sx'T,,,,,,,/%
+OL,7,TQx/#mTk/#HR-/TI+oC]DWait, here's \
+OL,8,T}<,/QmWx~/|pT+C]Da note...    \
+OL,9,T?S`~=Wx?#`x0"o}0#m0Tl|,,,,,,||||||||4
+OL,10,TS0o?W~'  #o=Vz?/-W+4Q`|/'+/|pT5
+OL,11,TSotVj7hR~}V? xR~}VWkQ'T|?/,,.//5
+OL,12,S(t0o}Wo~R/V5WkR/V~W5Tn?W`x||||t0T5
+OL,13,WS*:=WoR!(W4 kR$"V}iQ0W8/?/??o'Tk5
+OL,14,T=S}+UpW-,,n?po-||Q|||t;W?o({ppT5
+OL,15,WSz?Upf~%Q/mWou/pV"o}||hQmWqyyr~ +/!T5
+OL,16,T4U`~'Sx}Q}WVj?/+Q~W{sw{;UppTn5
+OL,17,TU~7SukQV! k5"Q///!Wl-,>U~}To5
+OL,18,TUkSkwo-W #`p~0"o}%T~Ws{{Un?a2}T!
+OL,19,T;U"}S/6m~=V?/|x7R}0W,><-0pU5
+OL,20,T$UzvouitS}+Wj'QmV'R+?!W/////UT0
+OL,21,U ~?S*}|tW##Qkt6}W~7 "U{'T%
+OL,22,U~"#SztS//dQo0# W+uo?!Uy~u
+OL,23,U7 S"//#Q      {= +$       U(
+OL,24,ANext
+FL,104,8ff,8ff,8ff,8ff,8ff

@@ -1,0 +1,34 @@
+DE,Andy
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p121.tti
+PN,12100
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,W px<           T55Wk}$T5555555555555
+OL,2,W 5  Ux~}0T 5Wj5oT55%%5%55%555%%
+OL,3,W u5 Uj4T5W~?/' Qp~}p~0x}tx|?!
+OL,4,W 75 U|swy< WhQ+|]St4<h$<hdh$a,
+OL,5,W k55U W5  zk5Q,]S55wj1wjij1by
+OL,6,W j55U Www5  w~Qn]Sl$44<0thh$<04
+OL,7,W ju5U W5 j?%Q"]Sj e5745kj1741
+OL,8,W z75U }W~zT54Q"?#/7+?+?'o'+#
+OL,9,W ?%'!U 5`|~?W//%T55%%$554545454455
+OL,10,W U`|~|2}?g|t0 Wx|T555555555555
+OL,11,W U//o~ws|7Wxwy'T555555555555
+OL,12,W UWl?U?W./# T5555555555555
+OL,13,W Uk||~w}||uT5555555555555
+OL,14,W uU?/o6o0T555555555555
+OL,15,W {U//#UW~U +}T555555555555
+OL,16,W 7V `x~?U||~ p|?T555555555555
+OL,17,W ?V`~?U.o?/e~'T 555555555555
+OL,18,W }V+?Q.otUx~||?#S}0T%%%%%%%%%%%%
+OL,19,W }V"'W~uQ#/U~?#S]DWHO is this
+OL,20,W u}tp~74U4~g?ThS]Dimposter Glug!?
+OL,21,W 5?5Ujt+ig>T**S]DStinking up my
+OL,22,W u555j5Ut3Qn= S]Dair-time with
+OL,23,W 7}}jUj ThjS]Dhis gloomy tosh!
+OL,24,ANext
+FL,122,8ff,8ff,8ff,8ff,8ff

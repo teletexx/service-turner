@@ -1,0 +1,34 @@
+DE,Dan
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p113.tti
+PN,11300
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,ToC]DSwitched back from decaf, Turn?T \
+OL,2,T     `0 ($S   j' V4T |$ `x|<$  p||||<,#
+OL,3,Q`>/}0T|Qx?/tS!TmV*T:! x?'! p|?/'#
+OL,4,Q"/!"T"#Q +'T#mtWT x/# p|//#     `p||
+OL,5,T}0Q`gx||t;0Tx}p "W,T"!p|/#U`|s#)dT+
+OL,6,TQh'ko;4T"##S>{}T'! U`~?'}  iTk
+OL,7,TQ!8/!(./6T||pS5Tp|~Un/# "/u  eT#
+OL,8,T/QWxo>tQT ppSmr?Tpp  Ux4~  jT
+OL,9,T QW/o~}/QT'!x 0 t #/oU5  jT|
+OL,10,T`Qu>k}}}zT!`~7h! *}t0 W |U?  jT
+OL,11,TQkt  `>z7Tx? jU}T*=W|Uo%  jT
+OL,12,T}Q+ws?'T! UT k?U`|||ro|0  jT
+OL,13,T? Qb##yT,/o% h?U'6t  h?'#+  jT"
+OL,14,T'Q`|0+/e|0T%  jUx%%55 jQlUb?  6T
+OL,15,T Q?o}||~?iT   U+}|>!  o,l7o?!`8!T
+OL,16,Q z4+o?gx=T h5Ux?     +/gsprss1 T(
+OL,17,Q w|/' 4T*?!U}   x~|0
+OL,18,Q '}r+?'! ~u S`$U% x7o4
+OL,19,Q.'*'#  "#$ *//Sx'Uj1 ~?w  o
+OL,20,C]DIt's criticallyU\}!}0j
+OL,21,C]Dimportant, I'llU\5E]T   pp(   `
+OL,22,C]Dexplain later.UU\o' E]T  ~t~|0
+OL,23,Q                   U##! E]T rx]GAnd!U "
+OL,24,ANext
+FL,114,8ff,8ff,8ff,8ff,8ff

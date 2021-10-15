@@ -1,0 +1,34 @@
+DE,Dave
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/turner/p106.tti
+PN,10600
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        TURNFAX  %%a %d %%b    C%H:%M/%S
+OL,1,TS]D  what on Earth?  \
+OL,2,T?k S]D  where did that  \
+OL,3,T7 j?/o S]D  wibbly wobbly   \
+OL,4,T5 */% j ?! +S]D wormhole take me?\
+OL,5,T5          !   *,,,,,,,,$ST,$  ,,(,
+OL,6,U       `Upp                S
+OL,7,U      U~|   C]D wish i'd bought   \
+OL,8,U     U//?s#/0 C]Da scarf, it feels  \
+OL,9,U    Uja>-|4#-ek0C]Dat least...a degree\
+OL,10,U    UjtW|pp||U%5S]Dand a half cooler  \
+OL,11,U     UWo}~U5S]Dthan i'm used to*  \
+OL,12,U     U}||||||5   S    `x~?'
+OL,13,U     Uk'##k5   S,,,,##!
+OL,14,U     U"up>%  `pp|4
+OL,15,U h  ~|2}|?i~} z!
+OL,16,Uh2u }rsssy|}zosq0
+OL,17,U*}~0ot+o%
+OL,18,U oi4?{3!
+OL,19,U   m5%}"/!
+OL,20,U   "/h5
+OL,21,U       j5
+OL,22,U       ##########
+OL,23,WU     T]F*That's awfully specific--Ed.
+OL,24,ANext
+FL,107,8ff,8ff,8ff,8ff,8ff
